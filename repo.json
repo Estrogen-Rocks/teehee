@@ -14,9 +14,9 @@
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://github.com/Estrogen-Rocks/yoinky/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Estrogen-Rocks/yoinky/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Estrogen-Rocks/yoinky/main/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Estrogen-Rocks/yoinky/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Estrogen-Rocks/yoinky/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Estrogen-Rocks/yoinky/raw/main/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/Estrogen-Rocks/yoinky/main/icon.png"
     }
 ]
